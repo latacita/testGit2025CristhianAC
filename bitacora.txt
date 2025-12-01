@@ -26,5 +26,23 @@
 (14)    merge RamaB                   el merge ha sido realizado de manera recursiva
 (15)    add .
         commit -m "Paso 15"
+(16-17) checkout -b RamaC
+(18)    editar archivo direccion.txt
+(19)    checkout -b RamaD
+        push origin RamaD
+(20)    editar archivo calificacion.txt
+(21).   add calificacion.txt
+        commit -m "Paso 21"
+(22)    checkout RamaC
+(23).   cambios en bitacora.txt
+        add .
+        commit -m "Paso 23"
+(24).   checkout master
+(25).                                    no hay merge que hacer puesto que no se hace commit en esta rama
+(26).   merge RamaD                     el merge se realizo de manera fast-forward
+(27)    merge RamaC                      no hay merge que hacer puesto que no se hace commit en esta rama
+(28).   tag Conseguido
+(29).   editar bitacora
 
+        
 
