@@ -12,3 +12,4 @@
                                      un error porque existen conflictos
                                      en el archivo problematico.txt.
  (06)   Commit "Conflitos Resueltos" 
+ 
