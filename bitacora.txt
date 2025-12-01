@@ -15,6 +15,11 @@
 (7)     editar archivo direccion.txt
 (8)     add .
         commit -m "Paso 08"
+(9)     checkout RamaB
+(10)    Editar el archivo direccion.txt
+(11)    add .
+        commit -m "Paso 11"
+(12)    checkout Master
 (13)    merge RamaA                   el merge ha sido realizado por fast-forward
         add .
         commit -m "Paso 13"

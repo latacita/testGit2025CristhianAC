@@ -1,6 +1,6 @@
-Centro: Facultar de ciencias
-Calle: Av. de los castros
+Centro: Facultad de ciencias
+Calle: Av. de los Castros
 Número: 48
 CP: 39005
 Ciudad: Santander
-Provincia: Santander
+Provincia: Cantabria
