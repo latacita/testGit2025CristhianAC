@@ -15,4 +15,6 @@
 (7)     editar archivo direccion.txt
 (8)     add .
         commit -m "Paso 08"
-        
+(13)    merge RamaA                   el merge ha sido realizado por fast-forward
+        add .
+        commit -m "Paso 13"
