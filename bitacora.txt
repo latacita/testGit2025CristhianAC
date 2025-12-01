@@ -23,3 +23,8 @@
 (13)    merge RamaA                   el merge ha sido realizado por fast-forward
         add .
         commit -m "Paso 13"
+(14)    merge RamaB                   el merge ha sido realizado de manera recursiva
+(15)    add .
+        commit -m "Paso 15"
+
+
