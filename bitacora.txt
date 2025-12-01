@@ -9,3 +9,7 @@
 (1)     clone https://github.com/latacita/testGit2025CristhianAC.git
 (3)     add .
         commit -m "Paso 03"
+(9)     checkout RamaB
+(10)    Editar el archivo direccion.txt
+(11)    add .
+        commit -m "Paso 11"
