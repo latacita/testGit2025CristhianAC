@@ -1,8 +1,11 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre): Sánchez Barreiro, Pablo              %%
+%% Alumno (Apellidos, Nombre): Agamez Cervantes, Cristhian          %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+(1)     clone https://github.com/latacita/testGit2025CristhianAC.git
+(3)     add .
+        commit -m "Paso 03"
